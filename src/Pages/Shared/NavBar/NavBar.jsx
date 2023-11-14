@@ -1,20 +1,20 @@
-import { Link } from "react-router-dom";
+// import { Link } from "react-router-dom";
 import logo from "../../../assets/slider/LOGO.png";
 
 const NavBar = () => {
-    const navOptions = <>
-        <li><a>Home</a></li>
-        <li><a>Shop</a> </li>
-        <li ><a>Category</a>
-            <ul className="p-2">
-                <li><a>Submenu 1</a></li>
-                <li><a>Submenu 2</a></li>
-            </ul>
-        </li>
-        <li><a>About</a></li>
-        <li><a>Contact</a></li>
+    // const navOptions = <>
+    //     <li><a>Home</a></li>
+    //     <li><a>Shop</a> </li>
+    //     <li ><a>Category</a>
+    //         <ul className="p-2">
+    //             <li><a>Submenu 1</a></li>
+    //             <li><a>Submenu 2</a></li>
+    //         </ul>
+    //     </li>
+    //     <li><a>About</a></li>
+    //     <li><a>Contact</a></li>
 
-    </>
+    // </>
     return (
         <>
             <div className="navbar fixed z-10  bg-opacity-80 bg-base-100">

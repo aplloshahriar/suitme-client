@@ -29,7 +29,7 @@ const Slider = () => {
                 className="mySwiper w-2/5 "
             >
 
-                <SwiperSlide className='my-16'><img src={img1} /></SwiperSlide>
+                <SwiperSlide className='my-16 '><img src={img1} /></SwiperSlide>
                 <SwiperSlide className='my-16'><img src={img2} /></SwiperSlide>
                 <SwiperSlide className='my-16'><img src={img3} /></SwiperSlide>
                 <SwiperSlide className='my-8'><img src={img4} /></SwiperSlide>
