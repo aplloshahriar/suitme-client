@@ -20,10 +20,10 @@ const LatestSwiper = ({ products }) => {
                     modules={[Navigation]}
                     className="mySwiper   w-3/4 "
                 >
-                    <SwiperSlide> <img src={products.img} alt="" /></SwiperSlide>
+                    <SwiperSlide> <img src={products.img} alt="No Image" /></SwiperSlide>
 
-                    <SwiperSlide><img src={products.img} alt="" /></SwiperSlide>
-                    <SwiperSlide><img src={products.img} alt="" /></SwiperSlide>
+                    <SwiperSlide><img src={products.img} alt="No Image" /></SwiperSlide>
+                    <SwiperSlide><img src={products.img} alt="No Image" /></SwiperSlide>
                   
                 </Swiper>
              

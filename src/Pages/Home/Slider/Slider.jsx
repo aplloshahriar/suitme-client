@@ -9,10 +9,12 @@ import img1 from '../../../assets/slider/s1.png'
 import img2 from '../../../assets/slider/s2.png';
 import img3 from '../../../assets/slider/s3.png';
 import img4 from '../../../assets/slider/s4.png';
+// import NavBar from '../../Shared/NavBar/NavBar';
 
 const Slider = () => {
     return (
         < >
+          
             <Swiper
                 spaceBetween={30}
                 rewind={true}
