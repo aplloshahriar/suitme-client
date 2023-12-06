@@ -23,8 +23,6 @@ import NavBar from "../Pages/Shared/NavBar/NavBar";
 
 
 
-
-
 const Main = () => {
     return (
         <div>
